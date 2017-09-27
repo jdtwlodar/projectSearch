@@ -1,0 +1,12 @@
+* {
+    font-family: 'Lato', sans-serif;
+}
+
+.project__desc {
+    list-style: none;
+    font-size: 18px;
+}
+
+.project__desc li:nth-child(even) {
+    background: rgba(86, 226, 67, 0.5);
+}
